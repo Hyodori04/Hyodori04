@@ -1,0 +1,68 @@
+export const homeObjOne = {
+    id:'about',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: 'Premium Bank',
+    headline : 'Unlimited Transactions with zero fees',
+    description: 'Get access to our exclusive app that allows you tp send unlimited transactions without ge',
+    buttonLabel: 'Get started',
+    imgStart: false,
+    img: require('../../images/svg-1.svg'),
+    alt: 'Car',
+    dark: true,
+    dark2: true,
+    dartText: false,
+};
+
+export const homeObjOne1 = {
+    id:'discover',
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Premium Bank',
+    headline : 'Unlimited Transactions with zero fees',
+    description: 'Get access to our exclusive app that allows you tp send unlimited transactions without ge',
+    buttonLabel: 'Get started',
+    imgStart: false,
+    img: require('../../images/svg-1.svg'),
+    alt: 'Car',
+    dark: false,
+    dark2: false,
+    dartText: true,
+};
+
+export const homeObjOne2 = {
+    id:'services',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: 'Premium Bank',
+    headline : 'Unlimited Transactions with zero fees',
+    description: 'Get access to our exclusive app that allows you tp send unlimited transactions without ge',
+    buttonLabel: 'Get started',
+    imgStart: false,
+    img: require('../../images/svg-1.svg'),
+    alt: 'Car',
+    dark: true,
+    dark2: true,
+    dartText: false,
+};
+
+
+export const homeObjOne3 = {
+    id:'signup',
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Premium Bank',
+    headline : 'Unlimited Transactions with zero fees',
+    description: 'Get access to our exclusive app that allows you tp send unlimited transactions without ge',
+    buttonLabel: 'Get started',
+    imgStart: false,
+    img: require('../../images/svg-1.svg'),
+    alt: 'Car',
+    dark: false,
+    dark2: false,
+    dartText: true,
+};
